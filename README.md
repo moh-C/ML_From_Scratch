@@ -1,2 +1,2 @@
 # ML_From_Scratch
-In this repository, I will be implementing traditional ML algorithms from scratch and I will also try to vectorize them!
+Explore the fundamentals of machine learning with our repository where we delve into the intricacies of clustering and dimensionality reduction. Featuring KMeans++, KMeans, and PCA algorithms implemented from scratch, alongside a KNN classifier, all optimized with vectorization for enhanced performance. Perfect for enthusiasts eager to understand the mechanics behind these powerful ML techniques.
